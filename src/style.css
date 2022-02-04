@@ -1,0 +1,21 @@
+#app {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrows {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  border: 3px solid #eee;
+}
+
+.arrow {
+  margin: 1rem;
+  width: 32px;
+}
